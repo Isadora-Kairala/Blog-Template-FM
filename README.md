@@ -19,7 +19,8 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](image.png)
+![](https://github.com/user-attachments/assets/de9993e9-83a4-4658-ac12-951d02a6af1d)
+
 
 ### Links
 
