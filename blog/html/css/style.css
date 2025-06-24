@@ -1,0 +1,94 @@
+#banner{
+    width: 100%;
+    height: auto;
+    position: static;
+    transform: none;
+    margin-bottom: 16px;
+    border-radius: 10px;
+
+}
+
+body{
+display: flex;
+background-color: hsl(47, 88%, 63%);
+justify-content: center;
+align-items: center;
+height: 100vh;
+background-color: hsl(47, 88%, 63%);
+font-family: 'Figtree', sans-serif ;
+
+}
+
+.cartao{
+  background-color: white;
+  border-radius: 18px;
+  width: 320px;
+  padding: 15px;
+  border: 1px, solid black;
+  box-shadow: 0 15px 25px rgba(0, 0, 0, 0.1);
+  box-shadow: 8px 8px 0px black;
+  
+
+}
+
+.tag {
+  background-color: hsl(47, 88%, 63%);
+  color: black;
+  font-weight: 800;
+  padding: 5px 10px;
+  border-radius: 5px;
+  font-size: 14px;
+  display: inline-block;
+  margin-bottom: 10px;
+  text-align: left;
+}
+
+.data {
+  font-size: 14px;
+  color: hsl(0, 0%, 30%);
+  margin: 0 0 12px;
+  text-align: left;
+}
+
+.titulo {
+  font-size: 20px;
+  font-weight: 800;
+  text-align: left;
+  margin: 0 0 12px;
+  color: black;
+  cursor: pointer;
+  transition: color 0.2s ease;
+}
+
+.titulo:hover {
+  color: hsl(47, 88%, 63%);
+}
+
+.descricao {
+  font-size: 16px;
+  color: hsl(0, 0%, 50%);
+  text-align: left;
+  margin-bottom: 20px;
+}
+
+.autor {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.autor img {
+  width: 35px;
+  border-radius: 50%;
+}
+
+.autor span {
+  font-size: 14px;
+  font-weight: 800;
+  color: black;
+}
+
+main{
+    width: 350px;
+    
+}
